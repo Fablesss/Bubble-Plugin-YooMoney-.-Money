@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "0": "payment"
+    },
+    "description": "Allows payment link generation for YooMoney (ЮMoney) (ex Яндекс.Деньги). \n\nAdds Workflow action (Payment tab) called [YooMoney] Create payment link, which generates link that you can use in next step \"Open an external website\" or save for later.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1629913011030x347153302321240960/512c1d1489eab40aaa2cb77859a15b0d.jpg",
+    "license": "open_source",
+    "name": "YooMoney Яндекс.Деньги ЮMoney"
+}
